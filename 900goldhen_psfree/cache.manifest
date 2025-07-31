@@ -11,6 +11,7 @@ lapse.mjs
 psfree.mjs
 send.mjs
 kpatch\900.elf
+kpatch\950.mjs
 module\chain.mjs
 module\constants.mjs
 module\int64.mjs
@@ -21,3 +22,4 @@ module\rw.mjs
 module\utils.mjs
 module\view.mjs
 rop\900.mjs
+rop\950.mjs
